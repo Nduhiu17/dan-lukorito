@@ -25,8 +25,8 @@ export function HeroSection() {
                 <Image
                   src="/profile-photo.jpeg"
                   alt="Dan Lukorito"
-                  width={400}
-                  height={500}
+                  width={720}
+                  height={1080}
                   className="w-full h-auto object-cover"
                   priority
                 />
